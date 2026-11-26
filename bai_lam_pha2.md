@@ -1,8 +1,8 @@
 # BÀI LÀM PHA 2 – HACKATHON 02
 
 - **Mã đề:** 09
-- **Họ tên:**
-- **Lớp:**
+- **Họ tên:** NGUYỄN THỊ KIỀU THU
+- **Lớp:** CNTT2
 - **Link repository Pha2:**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**
 
