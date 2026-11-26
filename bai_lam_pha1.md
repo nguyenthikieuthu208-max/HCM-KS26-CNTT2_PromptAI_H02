@@ -3,8 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:**Nguyễn Thị Kiều Thu**
 - **Lớp:**CNTT2**
-- **Link repository Pha1:** https://github.com/nguyenthikieuthu208-max/HCM-KS26-CNTT2_PromptAI_H02.git
-
+- **Link repository Pha1:** https://github.com/nguyenthikieuthu208-max/HCM-KS26-CNTT2_PromptAI_H02/edit/main/bai_lam_pha1.md
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
 ## 4.1. Bảo vệ dữ liệu và chống ảo giác
